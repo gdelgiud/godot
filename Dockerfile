@@ -1,6 +1,6 @@
 FROM debian:jessie-slim
 
-MAINTAINER Marius André Elsfjordstrand Beck <skaterase@gmail.com>
+MAINTAINER Gustavo Del Giudice <g.delgiudice89@gmail.com>
 
 ARG GODOT_VERSION=2.1.2
 ARG GODOT_VARIANT=stable
