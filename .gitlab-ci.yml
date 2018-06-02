@@ -1,3 +1,5 @@
+image: gdelgiud/godot-butler:2.1.2
+
 stages:
   - build
 
